@@ -253,7 +253,7 @@ static volatile uint8_t g_master_reset = false;
 
 //*****************************************************************************
 //
-//  Prototypes for private functions.
+//  Prototypes for the private functions.
 //
 //*****************************************************************************
 
